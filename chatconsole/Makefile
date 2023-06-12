@@ -1,5 +1,5 @@
 CC = g++
-CFLAGS = -std=c++20 -o
+CFLAGS = -std=c++17 -o
 SRC = src/*.cpp
 TARGET = chat
 PREFIX = /usr/local/bin
